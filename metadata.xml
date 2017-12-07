@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Zeemans-woordeboek</dc:title>
+      <dc:creator>Jacob van Lennep (1802–1868)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2012-08-06</dc:publisher>
+      <dc:date>2012-08-06</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net.
+</dc:rights>
+      <dc:subject>Naval art and science -- Dictionaries</dc:subject>
+      <dc:subject>Dutch language -- Dictionaries</dc:subject>
+      <dc:description>Een woordenboek van typische zeemanstermen uit het midden van de negentiende eeuw, veel hiervan zijn nu totaal vergeten, maar enkele zijn gemeengoed geworden.</dc:description>
+      <dc:identifier>pg:40417</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>

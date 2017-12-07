@@ -1,0 +1,21 @@
+
+.body p
+{
+    margin-left: 2em;
+}
+
+.hw
+{
+    text-indent: -2em;
+}
+
+.sc
+{
+    font-weight: bold;
+    font-variant: normal;
+}
+
+.signed
+{
+    text-align: right;
+}
